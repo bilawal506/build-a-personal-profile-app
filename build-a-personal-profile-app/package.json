@@ -1,0 +1,20 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "Personal Profile app api",
+  "keywords": [
+    "Profile",
+    "app"
+  ],
+  "license": "ISC",
+  "author": "Muhammad",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
